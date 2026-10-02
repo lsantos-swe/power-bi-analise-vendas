@@ -2,7 +2,7 @@
 
 > Dashboard desenvolvido como parte de um desafio prático da DIO, com foco na criação, organização e apresentação de visualizações de dados no Power BI.
 
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
+![Status](https://img.shields.io/badge/status-concluído-success)
 ![Power BI](https://img.shields.io/badge/ferramenta-Power%20BI-yellow)
 ![DIO](https://img.shields.io/badge/bootcamp-DIO-purple)
 
@@ -13,8 +13,6 @@ Este projeto foi desenvolvido a partir da **amostra de dados disponibilizada pel
 O relatório apresenta análises relacionadas a vendas, lucro, produtos, segmentos e distribuição geográfica, organizadas em três páginas.
 
 As duas primeiras páginas foram desenvolvidas com base nas atividades realizadas durante o curso. A terceira página foi construída como parte do desafio proposto, reunindo visualizações de vendas, unidades vendidas, lucro por país e lucro por segmento.
-
-O projeto permanece em desenvolvimento e será atualizado ao longo das próximas etapas do curso, utilizando a mesma base de dados para incorporar novas análises e recursos do Power BI.
 
 ## Dashboard
 
